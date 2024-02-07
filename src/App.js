@@ -7,6 +7,8 @@ function App (){
   const [position , setPosition] = useState("my-tooltiptext t-top");
   const [hoverText , setHoverText] = useState("Tooltip Content");
 
+  // function to handle tooltip content according to entered text
+
   const handleContentInput = (e) => {
     console.log(e.target.value);
     if (e.target.value.length > 0) {
