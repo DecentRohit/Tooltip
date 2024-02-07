@@ -9,3 +9,8 @@ How to use:
 * Enter custom text in the tooltip input
 * Select the direction of tooltip
 * Hover over the center buttom to view tooltip content in specified direction
+
+
+For further information you can reach out to me on facebook at https://www.facebook.com/decent.rohitsoni/
+
+Thank you for reading
