@@ -7,6 +7,7 @@ function Tooltip (props) {
 
 
   const hanldeTooltip = ()=>{
+    //this sets the positon as per the class name which i used for styling
   
    setHoverText(hoverText);
    if (position === "right"){setPosition("my-tooltiptext t-right")}
